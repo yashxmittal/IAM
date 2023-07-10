@@ -10,12 +10,12 @@ Prerequisites for this.
   * make a .env file and fill all the environment variable stated in sample.env
 
 # Copy to clone 
-```
+```bash
 git clone https://github.com/yashxmittal/IAM.git
 ```
 
 # Running the App
-```
+```bash
 # development
 $ npm run start
 
